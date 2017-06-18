@@ -1,1 +1,2 @@
 # Haromszogalagut
+Háromszögek egybeolvadása Javascript használatával
